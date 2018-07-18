@@ -1,6 +1,6 @@
 <div id="menu" data-target="menu">
 	<div class="menu-header">
-		<span class="menu-label">Menu</span>
+		<span class="menu-label">Menú</span>
 		<a class="menu-close" data-action="menu" data-target="menu"></a>
 	</div>
 	<ul class="menu-list">
@@ -13,9 +13,8 @@
 			{{#if @blog.twitter}}
 			<a class="twitter" href="{{twitter_url}}" title="{{@blog.twitter}}"><i class="icon-twitter"></i></a>
 			{{/if}}
-			{{#if @blog.facebook}}
-			<a class="facebook" href="{{facebook_url}}" title="{{@blog.facebook}}"><i class="icon-facebook"></i></a>
-			{{/if}}
+			{{@blog.facebook}}
+			<a class="Medium" href="https://medium.com/@MarianoMorales" title="Medium Publications"><i class="icon-medium"></i></a>
 			<a class="rss" href="{{@blog.url}}/rss/"><i class="icon-rss"></i></a>
 		</li>
 	</ul>

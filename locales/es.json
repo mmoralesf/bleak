@@ -1,0 +1,20 @@
+{
+    "Subscribe" : "¡Suscríbete!",
+    "Get the latest posts delivered right to your inbox" : "Recibe el contenido más relevante de la semana por correo",
+    "% min read" : "lectura de % min",
+    "1 min read" : "lectura de 1 min",
+    "<1 min read" : "lectura de <1 min",
+    "Your email address" : "Tu email",
+    "You've successfully subscribed to" : "Te has suscrito exitosamente a",
+    "Subscribe to {blogtitle}" : "Suscríbete a {blotitle}",
+    "Subscribed!" : "¡Listo!",
+    "This post was a collaboration between" : "Esta publicación es una colaboración entre",
+    "<a href='{url}'>More posts</a> by {name}" : "<a href='{url}'>Más publicaciones </a> por {name}",
+    "Read <a href='{url}'>more posts</a> by this author":"Leer <a href='{url}'> más publicaciones </a> del autor",
+    "Page {page} of {pages}" : "Página {page} de {pages}",
+    "Older Posts" : "Publicaciones antiguas",
+    "Newer Posts" : "Publicaciones recientes",
+    "youremail@example.com" : "tucorreo@ejemplo.com",
+    "See more" : "Ver más",
+    "Read more" : "Leer más"
+}
